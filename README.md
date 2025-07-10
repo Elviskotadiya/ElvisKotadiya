@@ -19,8 +19,8 @@
 
 ---
 ### Projects of Interest:
-- [DailyHunt:ER diagram for DailyHunt, normalized it to BCNF, and DDL scripts to create tables and constraints.](https://github.com/Elviskotadiya/DailyHunt_Database)  
-- [DineTime:cross-platform restaurant booking app with React Native, styled with NativeWind, and integrated Firebase for authentication and reservations.](https://github.com/Elviskotadiya/Dine-Time)
+- [DailyHunt](https://github.com/Elviskotadiya/DailyHunt_Database)  :ER diagram for DailyHunt, normalized it to BCNF, and DDL scripts to create tables and constraints.
+- [DineTime](https://github.com/Elviskotadiya/Dine-Time) :cross-platform restaurant booking app with React Native, styled with NativeWind, and integrated Firebase for authentication and reservations.
 ---
 
 
