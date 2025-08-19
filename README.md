@@ -8,7 +8,6 @@
 -  Currently pursuing **BTech at DAIICT**
 -  Enthusiastic learner with strong problem-solving and coding skills
 -  Good Hold on DSA 
--  App Development
 -  Always eager to learn new technologies
 
 ---
